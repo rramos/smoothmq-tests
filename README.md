@@ -20,10 +20,10 @@ Start SmoothMQ
 
 ```sh
 cd SmoothMQ/
-go run .
+go run . server
 ```
 
-Then create a new queue **text-queue** when going to <http://localhost:3000>
+Then create a new queue **test-queue** when going to <http://localhost:3000>
 
 And execute the test script that will create a new message on that queue
 
