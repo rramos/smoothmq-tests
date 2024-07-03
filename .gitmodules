@@ -1,0 +1,3 @@
+[submodule "SmoothMQ"]
+	path = SmoothMQ
+	url = git@github.com:poundifdef/SmoothMQ.git
